@@ -2,7 +2,7 @@
 
 This project calculates simple interest using the formula:
 
-Simple Interest = (Principal × Rate × Time) / 100
+SImple Interest = (Principal × Rate × Time) / 100
 
 ## Inputs
 - Principal amount
